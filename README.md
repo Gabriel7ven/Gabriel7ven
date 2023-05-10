@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Gabriel7ven and I'm Brazilian.
-- 👀 I’m interested in programing language Javascript and anothers tools related to Web Development.
-- 🌱 I’m currently learning Javascript on ALURA and freeCodeCamp.
-- 💞️ I hope to collaborate on some open source project coming soon.
-- 📫 How to reach me...(I will update this topic coming soon)
+## Oi!!! Eu sou o Gabriel Pereira
 
-<!---
-Gabriel7ven/Gabriel7ven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🕮 Hoje sou estudante de front-end e back-end, aberto para oportunidades de estágio ou mesmo trabalho.
+- 🌱 Me aprofundando em JavasScript
+- Pronomes: ele/dele
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
