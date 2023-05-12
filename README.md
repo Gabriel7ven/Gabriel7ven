@@ -1,14 +1,11 @@
 ## Oi!!! Eu sou o Gabriel Pereira
 
-- 🕮 Hoje sou estudante de front-end e back-end, aberto para oportunidades de estágio ou mesmo trabalho.
-- 🌱 Me aprofundando em JavasScript
+- 🕮 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web full stack, aberto para oportunidades de estágio ou mesmo trabalho.
+- 🌱 Me aprofundando em JavasScript e NodeJS
 - Pronomes: ele/dele
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel7ven)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel7ven&show_icons=true&hide=prs,contribs&theme=vue-dark#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7ven&layout=compact">
