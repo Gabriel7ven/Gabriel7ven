@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, passo a mai
 
 - 🕮 Analista e desenvolvedor de software em construção.
 - 🌱 Me aprofundando em Python e JavasScript.
-- 💻 Principais canais de aprendizado que utilizo: Alura e freeCodeCamp.
+- 💻 Principais canais de aprendizado que utilizo: Estacio e freeCodeCamp.
 - 👨🏻‍💻 Aberto para oportunidades de estágio ou mesmo trabalho.
 - 📨 Como entrar em contato comigo: gabriel.oficial@yahoo.com 
 - 👨🏻 Pronomes: ele/dele.
