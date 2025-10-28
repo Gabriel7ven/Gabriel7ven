@@ -1,9 +1,7 @@
 ## Oi! Eu sou o Gabriel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. 
-
 - 🕮 Analista e desenvolvedor de software em construção.
-- 🌱 Me aprofundando em Python.
+- 🌱 Me especializando em Python e Java.
 - 👨🏻‍💻 Aberto para oportunidades de estágio ou mesmo trabalho.
 - 👨🏻 Pronomes: ele/dele.
 <div style="display: inline_block">
